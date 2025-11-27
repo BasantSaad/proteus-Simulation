@@ -5,8 +5,7 @@ This project implements a **4-digit multiplexed 7-segment counter** using a **PI
 Two push-buttons are used to **increment** and **decrement** the displayed value from **0000 to 9999**.  
 A Proteus simulation model is included for testing and demonstration.
 
-![Alt Text](Internal%20Screen of run simulation.png)
-
+![Alt Text](Screen%20of%20run%20simulation.png)
 
 ---
 
