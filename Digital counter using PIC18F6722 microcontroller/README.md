@@ -76,7 +76,7 @@ Open it using **Proteus 8 Professional**.
 ### **1. In MPLAB**
 1. Open MPLAB  
 2. Create a new project for **PIC18F6722**  
-3. Add `counter.c`  
+3. Add `Digital_counter.c`  
 4. Build the project → generate the `.hex` file  
 
 ---
