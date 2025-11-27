@@ -37,19 +37,19 @@ A Proteus simulation model is included for testing and demonstration.
 
 │── MPLAB IDE files
 
-   │──**Digital_counter.c** 
+     │──**Digital_counter.c** 
    
-   │──**Digital_counter.hex** (used in simulation)
+     │──**Digital_counter.hex** (used in simulation)
    
-   │──Digital_counter.cof
+     │──Digital_counter.cof
    
-   │──Digital_counter.map
+     │──Digital_counter.map
    
-   │──Digital_counter.mcp
+     │──Digital_counter.mcp
    
-   │──Digital_counter.mcw
+     │──Digital_counter.mcw
    
-   │──Digital_counter.o
+     │──Digital_counter.o
    
 │── 7Segment_Counter.pdsprj (A Proteus project file (.pdsprj)
 
