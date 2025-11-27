@@ -33,9 +33,9 @@ A Proteus simulation model is included for testing and demonstration.
 
 ## 📁 Project Structure
 /project
-│── README.md
+**│── README.md**
 
-│── MPLAB IDE files
+**│── MPLAB IDE files**
 
      │──**Digital_counter.c** 
    
@@ -51,9 +51,9 @@ A Proteus simulation model is included for testing and demonstration.
    
      │──Digital_counter.o
    
-│── 7Segment_Counter.pdsprj (A Proteus project file (.pdsprj)
+**│── 7Segment_Counter.pdsprj (A Proteus project file (.pdsprj)**
 
-│── Digital counter.pdf (Fully Explaination of code )
+**│── Digital counter.pdf (Fully Explaination of code )**
 
 ---
 
