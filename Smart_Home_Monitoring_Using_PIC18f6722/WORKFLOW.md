@@ -79,7 +79,7 @@ OPERATING → OPERATING (steady state)
 ---
 
 ## Timing Diagram
-![System Diagram](Smart_Home_Monitoring_Using_PIC18f6722/Diagram_images_PNG/Timing%20Diagram.png)
+![System Diagram](Diagram_images_PNG/Timing%20Diagram.png)
 
 ---
 
