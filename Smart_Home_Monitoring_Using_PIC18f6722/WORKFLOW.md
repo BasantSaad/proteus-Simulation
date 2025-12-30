@@ -8,24 +8,7 @@ The OKAY_MAN system is an intelligent embedded security and environmental contro
 
 ## System Architecture Overview
 
-```
-┌─────────────────────────────────────────────────────────────┐
-│                    OKAY_MAN SYSTEM                          │
-│                  PIC18F6722 @ 10MHz                         │
-└─────────────────────────────────────────────────────────────┘
-                             │
-                ┌────────────┼────────────┐
-                │            │            │
-        ┌───────▼───────┐   │    ┌───────▼────────┐
-        │   SECURITY    │   │    │  ENVIRONMENTAL │
-        │   SUBSYSTEM   │   │    │   CONTROL      │
-        └───────────────┘   │    └────────────────┘
-                            │
-                    ┌───────▼────────┐
-                    │  USER INTERFACE│
-                    │   & DISPLAY    │
-                    └────────────────┘
-```
+![System Diagram](Diagram_images_PNG/7️⃣%20System%20Architecture.png)
 
 ---
 
