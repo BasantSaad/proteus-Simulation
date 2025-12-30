@@ -1,4 +1,4 @@
-# OKAY_MAN Technical Reference Manual
+# Automation Home Technical Reference Manual
 
 ## Table of Contents
 1. [Hardware Specifications](#hardware-specifications)
