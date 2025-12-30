@@ -1,4 +1,4 @@
-# OKAY_MAN Installation Guide
+# Automation Home Installation Guide
 
 ## Table of Contents
 1. [Prerequisites](#prerequisites)
