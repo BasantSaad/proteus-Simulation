@@ -1109,10 +1109,8 @@ For technical support:
 - Review this documentation
 - Check troubleshooting section
 - Search online forums
-- Contact [your support email]
+- Contact [basant.saadeldeen@gmail.com]
 
 ---
-
-**Congratulations! Your OKAY_MAN system should now be fully operational.**
 
 **End of Installation Guide**
