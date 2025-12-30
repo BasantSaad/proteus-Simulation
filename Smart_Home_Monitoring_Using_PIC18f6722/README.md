@@ -1,8 +1,8 @@
-# OKAY_MAN - Smart Home Security and Environmental Control System
-
+# Smart Home Security and Environmental Control System
+##### (OKAY_MAN.zip) 
 ## Project Overview
 
-OKAY_MAN is an embedded system project designed for the **PIC18F6722 microcontroller** that integrates multiple subsystems to create a comprehensive smart home security and environmental control solution.
+ Smart Home Security and Environmental Control System is an embedded system project designed for the **PIC18F6722 microcontroller** that integrates multiple subsystems to create a comprehensive smart home security and environmental control solution.
 
 ### Key Features
 
