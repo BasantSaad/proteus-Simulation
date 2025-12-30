@@ -1,4 +1,5 @@
 # Smart Home Security & Environmental Control System
+[Proteus Simolation](Smart_Home_Monitoring_Using_PIC18f6722/Diagram_images_PNG/Screenshot 2025-12-28 122732.png)
 #### Download the project ZIP: [OKAY_man_3.zip](./Smart_Home_Monitoring_Using_PIC18f6722/CODEs_MPlab_files/OKAY_man_3.zip)
 
 A compact embedded project for the PIC18F6722 that combines access control, temperature regulation, and automatic lighting. The system uses a 4x4 keypad for authentication, LM35 and LDR sensors for environmental monitoring, PWM-driven actuators (heater, fan, lamp), and a servo for door locking. Designed for development with MPLAB / MCC18 and optionally simulated in Proteus.
