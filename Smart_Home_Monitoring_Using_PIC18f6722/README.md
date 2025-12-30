@@ -2,7 +2,7 @@
 
 **([Video of the project in action](https://drive.google.com/drive/folders/1h6n0bqx6OWR4or1JA42cgT9_roUWPDCJ?usp=drive_link))**
 
-![Alt Text](Smart_Home_Monitoring_Using_PIC18f6722/Diagram_images_PNG/Screenshot%202025-12-28%20122732.png)
+![System Diagram](Smart_Home_Monitoring_Using_PIC18f6722/Diagram_images_PNG/Screenshot%202025-12-28%20122732.png)
 
 #### Download the project ZIP: [OKAY_man_3.zip](./Smart_Home_Monitoring_Using_PIC18f6722/CODEs_MPlab_files/OKAY_man_3.zip)
 
