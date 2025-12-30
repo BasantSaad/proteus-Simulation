@@ -30,11 +30,11 @@ The Automation Home system is an intelligent embedded security and environmental
 
 ---
 ### 3. Light Control Flow
-![System Diagram](Smart_Home_Monitoring_Using_PIC18f6722/Diagram_images_PNG/Light%20Control%20Flow.png)
+![System Diagram](Diagram_images_PNG/Light%20Control%20Flow.png)
  
  ---
 ### 4. System Reset Flow
-![System Diagram](Smart_Home_Monitoring_Using_PIC18f6722/Diagram_images_PNG/System%20Reset%20Flow.png)
+![System Diagram](Diagram_images_PNG/System%20Reset%20Flow.png)
 
 ---
 
@@ -44,7 +44,7 @@ The Automation Home system is an intelligent embedded security and environmental
 ---
 
 ## State Diagram
-![System Diagram](Smart_Home_Monitoring_Using_PIC18f6722/Diagram_images_PNG/State%20Diagram.png)
+![System Diagram](Diagram_images_PNG/State%20Diagram.png)
 ```
 STATE TRANSITIONS:
 
