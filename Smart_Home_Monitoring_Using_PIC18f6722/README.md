@@ -1,5 +1,5 @@
 # Smart Home Security & Environmental Control System
-(OKAY_MAN.zip)
+#### `AllFiles` -> (OKAY_MAN.zip)
 
 A compact embedded project for the PIC18F6722 that combines access control, temperature regulation, and automatic lighting. The system uses a 4x4 keypad for authentication, LM35 and LDR sensors for environmental monitoring, PWM-driven actuators (heater, fan, lamp), and a servo for door locking. Designed for development with MPLAB / MCC18 and optionally simulated in Proteus.
 
@@ -338,7 +338,7 @@ Provided as-is for educational use. No warranty.
 ---
 
 ## Credits
-- Developer: [Your Name]
+- Developer: [Basant Saad Eldin]
 - Target device: Microchip PIC18F6722
 - IDE: MPLAB IDE with MCC18
 - Date: December 2025
