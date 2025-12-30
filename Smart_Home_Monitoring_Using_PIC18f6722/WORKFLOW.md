@@ -15,7 +15,7 @@ The Automation Home system is an intelligent embedded security and environmental
 
 ### High-Level Process Flow
 
-![System Diagram](Diagram_images_PNG/System%20Architecture%20Overview.png)
+![System Diagram](Diagram_images_PNG/High-Level%20Process%20Flow.png)
 
 ---
 ## Subsystem Workflows
