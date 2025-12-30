@@ -1,7 +1,8 @@
 # Smart Home Security & Environmental Control System
 
-![Proteus Simulation](./Smart_Home_Monitoring_Using_PIC18f6722/Diagram_images_PNG/Screenshot%202025-12-28%20122732.png)
-](https://github.com/BasantSaad/proteus-Simulation/blob/81de016187b3e265180c21a70a53886f418b4c69/Smart_Home_Monitoring_Using_PIC18f6722/Diagram_images_PNG/Screenshot%202025-12-28%20122732.png)
+<p align="center">
+  <img src="./Smart_Home_Monitoring_Using_PIC18f6722/Diagram_images_PNG/Screenshot%202025-12-28%20122732.png" alt="Proteus Simulation" width="700"/>
+</p>
 
 #### Download the project ZIP: [OKAY_man_3.zip](./Smart_Home_Monitoring_Using_PIC18f6722/CODEs_MPlab_files/OKAY_man_3.zip)
 
